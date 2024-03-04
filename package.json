@@ -1,0 +1,15 @@
+{
+  "name": "helpergiver",
+  "ProductName": "helpergiver",
+  "version": "1.0.0",
+  "description": "tool because most others kinda suck",
+  "main": "main.js",
+  "devDependencies": {
+    "electron": "^25.1.0"
+  },
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "Platinumaniac",
+  "license": "MIT"
+}

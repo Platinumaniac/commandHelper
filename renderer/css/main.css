@@ -1,0 +1,50 @@
+
+@font-face {
+    font-family: mcFont;
+    src: url("../fonts/Minecraftchmc-dBlX.ttf");
+}
+*{color: black;margin: 0%;margin: 0%; font-family: "mcFont";font-size: 1.5rem;}
+.full{width: 100%;}
+::placeholder {
+    color: white;
+  }
+html{overflow: hidden;}
+body{
+    -webkit-app-region: drag;
+    image-rendering: pixelated;
+    display: grid;
+    grid-template-columns: 112px auto;
+}
+form{-webkit-app-region: no-drag;}
+input{color: white;}
+input[type="text"], select{
+    border: 4px solid;
+    border-image: url("../images/textbar.png") 1 fill repeat;
+}
+input[type="text"]:focus{
+    outline: none;
+}
+.tab{
+    position: absolute;
+    
+    background: none;
+    border: none;
+    background-size: 128px 112px;
+    background-repeat: no-repeat;
+    width: 128px;
+    height: 112px;
+}
+.toptab{background-image: url("../images/tab_left_top_selected.png")}
+
+.main{
+    border: 16px solid;
+    border-image: url("../images/ninePatchCraft.png") 4 fill repeat;
+}
+#giveForm{
+    display: grid;
+    grid-template-columns: auto 296px;
+}
+#preview{
+    display: inline-block;
+}
+#preview > img{margin: 16px;}

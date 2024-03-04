@@ -1,0 +1,19 @@
+{
+    "colors":[
+        {"name":"Dark Red","id":"dark_red"},
+        {"name":"Red","id":"red"},
+        {"name":"Gold","id":"gold"},
+        {"name":"Yellow","id":"yellow"},
+        {"name":"Dark Green","id":"dark_green"},
+        {"name":"Green","id":"green"},
+        {"name":"Aqua","id":"aqua"},
+        {"name":"Dark Aqua","id":"dark_aqua"},
+        {"name":"Dark Blue","id":"dark_blue"},
+        {"name":"Blue","id":"blue"},
+        {"name":"Light Purple","id":"light_purple"},
+        {"name":"Dark Purple","id":"dark_purple"},
+        {"name":"White","id":"white"},
+        {"name":"Gray","id":"gray"},
+        {"name":"Dark Gray","id":"dark_gray"},
+        {"name":"Black","id":"black"}]
+}

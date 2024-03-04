@@ -1,0 +1,121 @@
+{
+    "types":[{
+        "weapon":[
+        {"name":"Wooden sword","id":"wooden_sword","type":"sword"},
+        {"name":"Stone sword","id":"stone_sword","type":"sword"},
+        {"name":"Iron sword","id":"iron_sword","type":"sword"},
+        {"name":"Gold sword","id":"golden_sword","type":"sword"},
+        {"name":"Diamond sword","id":"diamond_sword","type":"sword"},
+        {"name":"Netherite sword","id":"netherite_sword","type":"sword"},
+
+        {"name":"Trident","id":"trident","type":"trident"},
+
+        {"name":"Shield","id":"shield","type":"shield"},
+
+        {"name":"Bow","id":"bow","type":"bow"},
+
+        {"name":"Crossbow","id":"crossbow","type":"crossbow"},
+
+        {"name":"Arrow","id":"arrow","type":"arrow"},
+        {"name":"Spectral arrow","id":"spectral_arrow","type":"arrow"},
+        {"name":"Tipped arrow","id":"tipped_arrow","type":"arrow"}
+    ],
+    "tool":[
+        {"name":"Wooden axe", "id":"wooden_axe","type":"axe"},
+        {"name":"Stone axe", "id":"stone_axe","type":"axe"},
+        {"name":"Iron axe", "id":"iron_axe","type":"axe"},
+        {"name":"Gold axe", "id":"golden_axe","type":"axe"},
+        {"name":"Diamond axe", "id":"diamond_axe","type":"axe"},
+        {"name":"Netherite axe", "id":"netherite_axe","type":"axe"},
+
+        {"name":"Wooden pickaxe", "id":"wooden_pickaxe","type":"pickaxe"},
+        {"name":"Stone pickaxe", "id":"stone_pickaxe","type":"pickaxe"},
+        {"name":"Iron pickaxe", "id":"iron_pickaxe","type":"pickaxe"},
+        {"name":"Gold pickaxe", "id":"golden_pickaxe","type":"pickaxe"},
+        {"name":"Diamond pickaxe", "id":"diamond_pickaxe","type":"pickaxe"},
+        {"name":"Netherite pickaxe", "id":"netherite_pickaxe","type":"pickaxe"},
+
+        {"name":"Wooden shovel", "id":"wooden_shovel","type":"shovel"},
+        {"name":"Stone shovel", "id":"stone_shovel","type":"shovel"},
+        {"name":"Iron shovel", "id":"iron_shovel","type":"shovel"},
+        {"name":"Gold shovel", "id":"golden_shovel","type":"shovel"},
+        {"name":"Diamond shovel", "id":"diamond_shovel","type":"shovel"},
+        {"name":"Netherite shovel", "id":"netherite_shovel","type":"shovel"}
+    ],
+    "armor":[
+        {"name":"Leather helmet", "id":"leather_helmet","type":"helmet"},
+        {"name":"Leather chestplate", "id":"leather_chestplate","type":"chestplate"},
+        {"name":"Leather leggings", "id":"leather_leggings","type":"leggings"},
+        {"name":"Leather boots", "id":"leather_boots","type":"boots"},
+
+        {"name":"Chainmail helmet", "id":"chainmail_helmet","type":"helmet"},
+        {"name":"Chainmail chestplate", "id":"chainmail_chestplate","type":"chestplate"},
+        {"name":"Chainmail leggings", "id":"chainmail_leggings","type":"leggings"},
+        {"name":"Chainmail boots", "id":"chainmail_boots","type":"boots"},
+
+        {"name":"Iron helmet", "id":"iron_helmet","type":"helmet"},
+        {"name":"Iron chestplate", "id":"iron_chestplate","type":"chestplate"},
+        {"name":"Iron leggings", "id":"iron_leggings","type":"leggings"},
+        {"name":"Iron boots", "id":"iron_boots","type":"boots"},
+
+        {"name":"Gold helmet", "id":"golden_helmet","type":"helmet"},
+        {"name":"Gold chestplate", "id":"golden_chestplate","type":"chestplate"},
+        {"name":"Gold leggings", "id":"golden_leggings","type":"leggings"},
+        {"name":"Gold boots", "id":"golden_boots","type":"boots"},
+
+        {"name":"Diamond helmet", "id":"diamond_helmet","type":"helmet"},
+        {"name":"Diamond chestplate", "id":"diamond_chestplate","type":"chestplate"},
+        {"name":"Diamond leggings", "id":"diamond_leggings","type":"leggings"},
+        {"name":"Diamond boots", "id":"diamond_boots","type":"boots"},
+
+        {"name":"Netherite helmet", "id":"netherite_helmet","type":"helmet"},
+        {"name":"Netherite chestplate", "id":"netherite_chestplate","type":"chestplate"},
+        {"name":"Netherite leggings", "id":"netherite_leggings","type":"leggings"},
+        {"name":"Netherite boots", "id":"netherite_boots","type":"boots"},
+
+        {"name":"Turtle shell", "id":"turtle_helmet","type":"helmet"}
+    ]}],
+    "colors":[
+    {"name":"Dark Red","id":"dark_red"},
+    {"name":"Red","id":"red"},
+    {"name":"Gold","id":"gold"},
+    {"name":"Yellow","id":"yellow"},
+    {"name":"Dark Green","id":"dark_green"},
+    {"name":"Green","id":"green"},
+    {"name":"Aqua","id":"aqua"},
+    {"name":"Dark Aqua","id":"dark_aqua"},
+    {"name":"Dark Blue","id":"dark_blue"},
+    {"name":"Blue","id":"blue"},
+    {"name":"Light Purple","id":"light_purple"},
+    {"name":"Dark Purple","id":"dark_purple"},
+    {"name":"White","id":"white"},
+    {"name":"Gray","id":"gray"},
+    {"name":"Dark Gray","id":"dark_gray"},
+    {"name":"Black","id":"black"}],
+    "modifiers":[{
+    "potion_effects":[
+        {"name":"Regeneration","id":"regeneration","type":"regular"},
+        {"name":"Swiftness","id":"swiftness","type":"regular"},
+        {"name":"Fire Resistance","id":"fire_resistance","type":"regular"},
+        {"name":"Healing","id":"healing","type":"regular"},
+        {"name":"Night vision","id":"night_vision","type":"regular"},
+        {"name":"Strength","id":"strength","type":"regular"},
+        {"name":"Leaping","id":"leaping","type":"regular"},
+        {"name":"Invisibility","id":"invisibility","type":"regular"},
+        {"name":"Poison","id":"poison","type":"regular"},
+        {"name":"Weakness","id":"weakness","type":"regular"},
+        {"name":"Slowness","id":"slowness","type":"regular"},
+        {"name":"Harming","id":"harming","type":"regular"},
+        {"name":"Water Breathing","id":"water_breathing","type":"regular"},
+        {"name":"Luck","id":"luck","type":"regular"},
+        {"name":"Turtle Master","id":"turtle_master","type":"regular"},
+        {"name":"Slow Falling","id":"slow_falling","type":"regular"},
+
+        {"name":"Bad luck","id":"25","type":"custom"}
+    ]
+    ,"enchantments":[
+        {"name":"fire aspect","id":"fire_aspect"}
+
+    ]}
+    
+]}
